@@ -1,0 +1,12 @@
+{
+    "name": "zhousilu/study-parse-down",
+    "authors": [
+        {
+            "name": "siluzhou",
+            "email": "siluzhou_pku@163.com"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "^1.6"
+    }
+}
