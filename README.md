@@ -41,7 +41,7 @@ $Parsedown = new Parsedown();
 echo $Parsedown->text('Hello _Parsedown_!'); # prints: <p>Hello <em>Parsedown</em>!</p>
 ```
 
-更多例子请看 [wiki](https://github.com/siluzhou/StudyParseDown/wiki)和 [this video tutorial](http://youtu.be/wYZBY8DEikI).
+更多例子请看 [wiki](https://github.com/siluzhou-pku/StudyWiki/wiki)和 [this video tutorial](http://youtu.be/wYZBY8DEikI).
 
 ### 问题
 
